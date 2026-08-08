@@ -406,10 +406,9 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 
 ## 📬 Contact
 
-**Author:** Your Name
-**Email:** your.email@example.com
-**LinkedIn:** linkedin.com/in/yourprofile
-**GitHub:** github.com/yourusername
+**Author:** Khetul Patel
+**Email:** khetulpatel@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/khetul-patel-044167316/
 
 ---
 
